@@ -1,0 +1,16 @@
+{
+  "client_id": "CLIENT_ID_HERE",
+  "client_name": "Full Name",
+  "niche": "Industry and specialization",
+  "icp": "Who their audience is",
+  "posting_days": [
+    "Tuesday",
+    "Wednesday",
+    "Thursday"
+  ],
+  "posts_per_week": 3,
+  "active": true,
+  "onboarded_date": "YYYY-MM-DD",
+  "fathom_meeting_ids": [],
+  "last_session": null
+}
